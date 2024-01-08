@@ -1,5 +1,7 @@
 
-# A site to accompany a business card, with key resources on learning Application Development, User Interface Design, etc.
+# The Road Code Showed
+
+#### A site & business card for sharing key resources to learn Application Development, User Interface Design, and other IT skills etc.
 
 Live at: https://roadcodeshowed.vercel.app/
 
