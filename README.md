@@ -11,6 +11,15 @@ The challenge of teaching a topic to one's self is the need for both Resources (
 
 This website is simply a digital version of a business card that I pass out, which contains links to the following key learning resources:
 
+**This list is going to appear daunting-- because it is.**  Nothing good comes easy-- good results take time and dedication.  There are no quick fixes in life.
+
+**Remember: This is a marathon, not a sprint.**  Teaching yourself software engineering is a multi-year commitment.
+
+### Getting from Here to There
+Despite what I cautioned above about "Quick Fixes",  you can actually see results quickly-- such as a new job, if you begin learning a specific role which has low barriers to entry.  For example, I entered into a Digital Marketing career after learning html, css, and frontend javascript-- which I combined with my Event Marketing (AKA Brand Ambassador) work, and Campaign Management (in my case it was legislative campaign non-profit work) to formulate a strong argument to a hiring manager to hire me.  I had interwoven a skillset of three domains-- First, Campaigning, then Brand Ambassador-ing, and then once I had some tech skills-- I had a solid skillset relevant to Digital Marketing.
+
+The tech-side of things (html, css, basic javascript) at that point only required about 2-3 months of self-study.
+
 ## [Roadmap.sh](https://roadmap.sh/)
   - **Roadmap.sh is Role and Skill oriented Roadmap which leads the viewer down a path through learning various technical & IT topics**, for IT Career Roles including:
     - Clientside & Serverside web application design & development
@@ -20,6 +29,12 @@ This website is simply a digital version of a business card that I pass out, whi
     - User Experience Design
     - Alongside this, is a Skill-oriented roadmap for the specific skills involved in the above roles, which break down each skill into a corpus of individual methodologies and knowledge areas.
 
+## [CS50](https://www.youtube.com/@cs50/videos)
+  - **CS50** is a series of Computer Science lectures produced by Harvard, on an array of topics, including Programming Languages & Frameworks, General concepts such as Cybersecurity, Ethics, etc.
+  - You'll also find multipart videoseries on specific topics-- such as:
+    - [CyberSecurity](https://www.youtube.com/watch?v=kUovJpWqEMk&ab_channel=CS50)
+    - [Database Design + SQL](https://www.youtube.com/watch?v=wdzA1Z8tKek&ab_channel=CS50)
+  
 ### [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and other Chatrooms, such as [Discord](https://www.codemonk.ai/insights/top-discord-servers-developers), and [Slack](https://techbeacon.com/app-dev-testing/46-slack-groups-developers)
   - IRC stands for Internet Relay Chat.  Personally, I mostly stick to IRC, however occasionally I visit Discord developer-related chatrooms (mostly because some programming frameworks communities are on Discord but not IRC, such as [the open source "Strapi" CMS](https://strapi.io/blog/migrating-our-community-chat-from-slack-to-discord), or the [Discord-based developer community for Twitch.tv, where devs chat about Twitch.tv API, extensions, plugins, etc.](https://dev.twitch.tv/support/)).
   - It's an old school style, minimalist UI chatroom populated by adept, veteran programmers as well as newbies.
