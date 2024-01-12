@@ -27,13 +27,13 @@ Despite what I cautioned above about "Quick Fixes",  you can actually see result
         B[Event Marketing]-->D;
         C[Self-study Frontend Development]-->D;
       end
-      D[Make web portfolio to demonstrate DigitalMarketing-related Experience & skills]-->E[Digital Marketing Job]
+      D[Make web portfolio to demonstrate DigitalMarketing-related Experience & skills]-->E[Digital Marketing Job with Marketo CRM]
 
       subgraph two[Moving from DigitalMarketing to Web Development]
-        F[Digital Marketing experience]-->I
+        F[Digital Marketing experience Marketo CRM]-->I
         G[Self-study Full Stack Web Development Skills]-->I
         H[Data Skills from formal coursework: Statistics, Database Design]-->I
-        I[First Programming Job: Marketing Data Integration]
+        I[First Programming Job: Marketing Data Integration with Marketo and LiveChat]
       end
 
       E-->F
