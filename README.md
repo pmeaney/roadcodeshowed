@@ -20,6 +20,25 @@ This website is simply a digital version of a business card that I pass out, whi
 ### Getting from Here to There
 Despite what I cautioned above about "Quick Fixes",  you can actually see results quickly-- such as a new job, if you begin learning a specific role which has low barriers to entry.  For example, I entered into a Digital Marketing career after learning html, css, and frontend javascript-- which I combined with my Event Marketing (AKA Brand Ambassador) work, and Campaign Management (in my case it was legislative campaign non-profit work) to formulate a strong argument to a hiring manager to hire me.  I had interwoven a skillset of three domains-- First, Campaigning, then Brand Ambassador-ing, and then once I had some tech skills-- I had a solid skillset relevant to Digital Marketing.
 
+```mermaid
+  graph TD;
+      subgraph one[Example of how to Interweave three skillsets to enter a new career field]
+        A[Communication Campaign]-->D;
+        B[Event Marketing]-->D;
+        C[Self-study Frontend Development]-->D;
+      end
+      D[Make web portfolio to demonstrate DigitalMarketing-related Experience & skills]-->E[Digital Marketing Job]
+
+      subgraph two[Moving from DigitalMarketing to Web Development]
+        F[Digital Marketing experience]-->I
+        G[Self-study Full Stack Web Development Skills]-->I
+        H[Data Skills from formal coursework: Statistics, Database Design]-->I
+        I[First Programming Job: Marketing Data Integration]
+      end
+
+      E-->F
+```
+
 The tech-side of things (html, css, basic javascript) at that point only required about 2-3 months of self-study.
 
 ## [Roadmap.sh](https://roadmap.sh/)
