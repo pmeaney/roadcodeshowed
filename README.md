@@ -5,6 +5,8 @@
 
 Live at: https://roadcodeshowed.vercel.app/
 
+>"Programming is the art of telling another human being what you want the computer to do"
+
 For several years I have enjoyed chatting with new learners of programming, and those who are interested in how to begin to learn.
 
 The challenge of teaching a topic to one's self is the need for both Resources (courses, books, forums, chatrooms), and Guidance (a Roadmap to key topics and the order in which to learn them).
