@@ -79,8 +79,8 @@ Coursera, Skillshare, Udacity, LinkedIn Learning, edX
 Pluralsight, Alison, Khan Academy, MasterClass, Codecademy, Lynda, and Academic Earth, among others.
   - For learning DevOps & Infrastructure specifically, my favorite video courses are on [KodeKloud](https://kodekloud.com/), but other great options would be [A Cloud Guru](https://acloudguru.com), and [CBT Nuggets](https://www.cbtnuggets.com)
 
-### [Google Drive](https://drive.google.com/drive/)
-  - **Keeping notes and Journals is essential** to staying organized and teaching yourself.
+### Learning Journals & Note-taking
+  - **Keeping notes and Journals is essential** to staying organized and teaching yourself.  **My preferred tool is [Google Drive](https://drive.google.com/drive/)** but some folks also really like [Obsidian](https://news.ycombinator.com/item?id=39027154) and others
   - I like to keep Learning Journals, Reference Journals, and Project Journals
     - Learning Journals "LJ" (e.g. "LJ - NextJS", "LJ - Software Architecture", "LJ - Linux/Docker/Nginx")
       - In my Learning Journals, I write the date above every entry.  I jot down notes as I work on Projects and study topics.
